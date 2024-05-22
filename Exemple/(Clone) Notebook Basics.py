@@ -4,7 +4,7 @@ print("Hello Python!")
 # COMMAND ----------
 
 # MAGIC %sql
-# MAGIC select 'Hello SQL '
+# MAGIC select 'Hello SQL --'
 
 # COMMAND ----------
 
